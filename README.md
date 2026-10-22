@@ -91,7 +91,7 @@ Follow these steps to run the portfolio on your computer.
 1. Clone this repository:
 
    ```bash
-   
+   https://shedagesakshi719-code.github.io/Portfolio/
    ```
 
 2. Open the project folder:
